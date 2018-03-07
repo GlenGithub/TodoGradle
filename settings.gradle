@@ -1,0 +1,6 @@
+//管理项目跟子项目
+rootProject.name = 'todo'
+include 'model'
+include 'repository'
+include 'web'
+
